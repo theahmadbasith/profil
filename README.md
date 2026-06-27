@@ -11,7 +11,12 @@
 
 <!-- 2. TYPING ANIMATION (HACKER THEME) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer+%26+System+Architect;⚙️+Transforming+Bureaucracy+Through+Digitalization;⚡+Next.js+14,+React,+Tailwind+CSS+Ninja;🗺️+GIS+Enthusiast+(Leaflet+%26+Mapbox);🐧+Linux+Power+User+(Mint%2FLubuntu);💡+Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing Animation" />
+  <a href="https://github.com/theahmadbasith">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer+%26+System+Architect;%E2%9A%99%EF%B8%8F+Transforming+Bureaucracy+Through+Digitalization;%E2%9A%A1+Next.js+14,+React,+Tailwind+CSS+Ninja;%F0%9F%97%BA%EF%B8%8F+GIS+Enthusiast+(Leaflet+%26+Mapbox);%F0%9F%90%A7+Linux+Power+User+(Mint%2FLubuntu);%F0%9F%92%A1+Turning+Complex+Problems+Into+Elegant+Solutions">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer+%26+System+Architect;%E2%9A%99%EF%B8%8F+Transforming+Bureaucracy+Through+Digitalization;%E2%9A%A1+Next.js+14,+React,+Tailwind+CSS+Ninja;%F0%9F%97%BA%EF%B8%8F+GIS+Enthusiast+(Leaflet+%26+Mapbox);%F0%9F%90%A7+Linux+Power+User+(Mint%2FLubuntu);%F0%9F%92%A1+Turning+Complex+Problems+Into+Elegant+Solutions" alt="Typing Animation" />
+    </picture>
+  </a>
 </div>
 
 <br/>
