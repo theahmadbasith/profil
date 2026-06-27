@@ -110,21 +110,16 @@
       </pre>
       <b>$ whoami</b>
       <br/><br/>
-      <b>Name:</b> Ahmad Abdul Basith, S.Tr.I.P. &nbsp;(<code>@theahmadbasith</code>)
-      <br/>
-      <b>Education:</b> IPDN (Institut Pemerintahan Dalam Negeri) '25 — Praktik Perpolisian Tata Pamong
-      <br/>
-      <b>Role:</b> Polisi Pamong Praja Ahli Pertama, Satpol PP Kabupaten Ponorogo (Bidang Trantibum & Linmas)
-      <br/>
-      <b>Based in:</b> Kabupaten Ponorogo, East Java, Indonesia &nbsp;(Originally from Trenggalek)
-      <br/>
-      <b>Languages:</b> Bahasa Indonesia (Native), Javanese (Native), English (Technical)
-      <br/>
-      <b>Approach:</b> Field-first engineering — "jemput bola" to the source of the problem
-      <br/>
-      <b>Mission:</b> Bridging bureaucracy and modern software engineering, building lightweight tools for low-spec hardware, and turning manual administrative workflows into digital systems
-      <br/>
-      <b>Contact:</b> theahmadbasith@gmail.com
+      <table>
+        <tr><td width="110" valign="top"><b>Name</b></td><td valign="top">: Ahmad Abdul Basith, S.Tr.I.P. (<code>@theahmadbasith</code>)</td></tr>
+        <tr><td valign="top"><b>Education</b></td><td valign="top">: IPDN (Institut Pemerintahan Dalam Negeri) '25 — Praktik Perpolisian Tata Pamong</td></tr>
+        <tr><td valign="top"><b>Role</b></td><td valign="top">: Polisi Pamong Praja Ahli Pertama, Satpol PP Kabupaten Ponorogo (Bidang Trantibum & Linmas)</td></tr>
+        <tr><td valign="top"><b>Based in</b></td><td valign="top">: Kabupaten Ponorogo, East Java, Indonesia (Originally from Trenggalek)</td></tr>
+        <tr><td valign="top"><b>Languages</b></td><td valign="top">: Bahasa Indonesia (Native), Javanese (Native), English (Technical)</td></tr>
+        <tr><td valign="top"><b>Approach</b></td><td valign="top">: Field-first engineering — "jemput bola" to the source of the problem</td></tr>
+        <tr><td valign="top"><b>Mission</b></td><td valign="top">: Bridging bureaucracy and modern software engineering, building lightweight tools for low-spec hardware, and turning manual administrative workflows into digital systems</td></tr>
+        <tr><td valign="top"><b>Contact</b></td><td valign="top">: theahmadbasith@gmail.com</td></tr>
+      </table>
     </td>
   </tr>
 </table>
